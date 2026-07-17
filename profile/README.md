@@ -20,7 +20,7 @@ We believe the tools you use every day shouldn't hold your data hostage or rent 
 
 ## Projects
 
-### 🎧 [Cassette]https://github.com/CassetteLab/cassette)
+### 🎧 [Cassette](https://github.com/CassetteLab/cassette)
 A native music app for iOS & macOS that streams your self-hosted library beautifully. Built in SwiftUI, powered by SwiftSonic, designed around one idea: *just your music.*
 
 - Native iOS & macOS, single codebase
