@@ -39,14 +39,6 @@ A clean, modern Swift client library for the Subsonic & OpenSubsonic APIs. The e
 - Indexed on the [Swift Package Index](https://swiftpackageindex.com/MathieuDubart/SwiftSonic)
 - **License: MIT · Open source**
 
-### 💿 [CrateDigger](https://github.com/CassetteLab/crate-digger)
-A Swift-native client to communicate with your deemix instance.
-
-- Swift 6, strict concurrency, zero external dependencies
-- iOS · macOS · tvOS · watchOS · visionOS
-- Typed errors, retry policies, security-first credential handling
-- **License: MIT · Open source**
-
 ---
 
 ## Get involved
